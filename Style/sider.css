@@ -1,0 +1,32 @@
+.sider {
+  width: 72px;
+  position: fixed;
+  top: 50px;
+  bottom: 0px;
+  left: 0px;
+  background-color: white;
+  padding-top: 10px;
+  z-index: 200;
+  
+}
+.sider-link{
+  height: 74px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.sider-link:hover {
+  background-color: lightgray;
+}
+
+.sider-link img {
+  height: 24px;
+  margin-bottom: 4px;
+}
+
+.sider-link div {
+  font-size: 10px;
+}
