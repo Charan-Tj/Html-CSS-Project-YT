@@ -13,12 +13,14 @@ This project is a faithful recreation of YouTube's user interface, built to demo
 ## ✨ Features
 
 ### 🎯 Layout & Design
+
 - Pixel-perfect recreation of YouTube's modern interface
 - Fully responsive grid system for video thumbnails
 - Custom-styled scrollbars and hover effects
 - Dynamic video thumbnail overlays
 
 ### 📱 Navigation
+
 - Fixed header with search functionality
 - Collapsible sidebar with navigation icons
 - Floating video duration indicators
@@ -26,6 +28,7 @@ This project is a faithful recreation of YouTube's user interface, built to demo
 - User profile section
 
 ### 💫 Interactive Elements
+
 - Hover effects on all buttons and cards
 - Custom tooltip implementations
 - Video duration overlays
@@ -33,6 +36,7 @@ This project is a faithful recreation of YouTube's user interface, built to demo
 - Channel subscription buttons
 
 ## 🛠️ Built With
+
 - HTML5 - Semantic markup
 - CSS3
   - Flexbox for layout
@@ -46,6 +50,7 @@ This project is a faithful recreation of YouTube's user interface, built to demo
 ## 📱 Responsive Design
 
 The layout adapts to different screen sizes:
+
 - 📱 Mobile: 2 columns (up to 750px)
 - 📟 Tablet: 3 columns (751px to 999px)
 - 🖥️ Desktop: 4 columns (1000px+)
@@ -53,11 +58,13 @@ The layout adapts to different screen sizes:
 ## 🚀 Quick Start
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/Charan-Tj/Html-CSS-Project-YT.git
 ```
 
 2. Open index.html in your browser:
+
 ```bash
 cd Html-CSS-Project-YT
 # Open index.html with your preferred browser
@@ -78,14 +85,16 @@ cd Html-CSS-Project-YT
 ## 🎨 Style Guide
 
 ### Colors
+
 - Primary: `rgb(255, 0, 0)` (YouTube Red)
 - Background: `rgb(249, 249, 249)`
 - Text Primary: `rgb(3, 3, 3)`
 - Text Secondary: `rgb(96, 96, 96)`
 
 ### Typography
+
 - Font Family: Roboto, Arial
-- Sizes: 
+- Sizes:
   - Headers: 1.2rem - 2rem
   - Body: 0.9rem - 1rem
   - Small text: 0.8rem
@@ -93,6 +102,7 @@ cd Html-CSS-Project-YT
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
+
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
